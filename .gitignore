@@ -1,0 +1,4 @@
+node_modules/
+infra/bootstrap-backend/terraform.tfstate
+.terragrunt-cache/
+.terrraform.lock.hcl
